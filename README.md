@@ -10,3 +10,4 @@ A website where:
 	- log-in to their respective accounts
 	- register for the events and wait for admin comfirmation
 	
+//working on making it MVC
