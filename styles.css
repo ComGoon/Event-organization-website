@@ -1,0 +1,58 @@
+body{
+    background: lightgray;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.sections{
+    border-radius: 5px;
+}
+#events{
+    padding: 0 20px;
+    width: 700px;
+    height: 90vh;
+    background-color: bisque;
+}
+
+
+#register{
+    padding: 0 50px;
+    margin-left: 50px;
+    width: 400px;
+    height: 90vh;
+    background-color: bisque;
+}
+
+section h3{
+    text-transform: uppercase;
+
+    text-transform: full-width;
+}
+
+.input{
+    height: 25px;
+    margin: 5px;
+    width: 300px;
+}
+
+.inputBtn{
+    height: 28px;
+    background-color: tomato;
+    margin-left: 5px;
+}
+#attendeeBtn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.table {
+ width: 600px;
+}
+
+.table th {
+    background: aqua;
+    text-transform: uppercase;
+}
